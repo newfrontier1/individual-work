@@ -7,3 +7,5 @@
 * Student repositories
 * Classroom
 * Permissions
+* Exercises
+* Automated testing
